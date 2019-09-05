@@ -26,6 +26,7 @@
 =>𝓘𝓝𝓘 𝓨𝓐𝓝𝓖 𝓐𝓢𝓛𝓘 𝓓𝓘 𝓜𝓞𝓓𝓤𝓛<=
 ![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/LATIHAN%201%20YANG%20SEPERTI%20ASLINYA.PNG)
 
+=>PERULANGAN<=
 ![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/perulangan%20while%20job8.PNG)
 ![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/contoh_perulangan_while.java)
 
