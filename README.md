@@ -6,9 +6,9 @@
 ![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/tugaspraktikum1.java)
 
 
-=>𝓛𝓐𝓟𝓞𝓡𝓐𝓝 𝓣𝓤𝓖𝓐𝓢 𝓟𝓡𝓐𝓚𝓣𝓘𝓚𝓤𝓜 𝓙𝓞𝓑𝓢𝓗𝓔𝓔𝓣 8<=
+=>𝓛𝓐𝓟𝓞𝓡𝓐𝓝 𝓣𝓤𝓖𝓐𝓢 𝓟𝓡𝓐𝓚𝓣𝓘𝓚𝓤𝓜 𝓙𝓞𝓑𝓢𝓗𝓔𝓔𝓣 8<=![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/tugaspraktikum2.java)
 ![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/praktikum%202job8.PNG)
-![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/tugaspraktikum2.java)
+
 \\
 \\
 \\
