@@ -23,9 +23,9 @@
 \\
 
 =>𝓛𝓐𝓣𝓘𝓗𝓐𝓝 𝓙𝓞𝓑𝓢𝓗𝓔𝓔𝓣 8 𝓟𝓔𝓡𝓤𝓛𝓐𝓝𝓖𝓐𝓝 𝓓𝓔𝓝𝓖𝓐𝓝 𝓟𝓔𝓡𝓑𝓐𝓘𝓚𝓐𝓝<=
-()
+![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/LATIHAN%202%20YANG%20SUDAH%20DI%20TAMBAH%20PERBAIKAN.PNG)
 =>𝓘𝓝𝓘 𝓨𝓐𝓝𝓖 𝓐𝓢𝓛𝓘 𝓓𝓘 𝓜𝓞𝓓𝓤𝓛<=![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/perulangan_latihan2.java)
-![Alt Text]()
+![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-8-PERULANGAN-new/blob/master/LATIHAN%202%20YANG%20SEPERTI%20ASLINYA.PNG)
 
 \\
 \\
